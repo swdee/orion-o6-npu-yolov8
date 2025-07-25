@@ -1,0 +1,5 @@
+.idea
+build/
+compile/
+!compile/.gitkeep
+!build/.gitkeep
