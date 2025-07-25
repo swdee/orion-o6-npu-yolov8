@@ -155,7 +155,7 @@ bias_bits = 32 & <[(273,274)]:48>
 
 ### Finding 
 
-To find the magic numbers for the `yolov8s.onnx` file see [this document](docs/MAGIC.md).
+To find the magic numbers for the `yolov8s.onnx` file see [this document](doc/MAGIC.md).
 
 
 
